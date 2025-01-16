@@ -6,6 +6,7 @@ Project Structure
 index.html: The main HTML file that defines the structure of the website.
 style.css: Contains all the styling for the website, including layout, colors, and fonts.
 script.js: Handles any dynamic interactions or functionality using JavaScript.
+
 Features
 Responsive Design: The website adjusts to different screen sizes, ensuring it looks great on desktops, tablets, and smartphones.
 Interactive Elements: Includes buttons, hover effects, and animations to bring the site to life.
